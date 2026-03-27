@@ -5,7 +5,7 @@ A Machine Learning based web application that predicts the price of a car based 
 ---
 
 ##  Features
-
+  
 *  Predict car price using ML model
 * User-friendly interface
 * Fast and accurate predictions
